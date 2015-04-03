@@ -245,7 +245,7 @@
                            </a>
                        </div>
 						<div><span class="publication-date">2015-04-03</span>
-                            <a href="/pages/membershipOverview">
+                            <a href="/pages/bePartOfDryad">
                                 <img alt="" src="/themes/Mirage/images/watering-can.png" />
                                 <p style="width: 450px; color: #363; font-size: 90%; top: 0px; right: 10px; line-height: 1.2em; position: absolute; text-shadow: 1px 2px 2px rgba(33, 33, 33, 0.25);">Organizations: Help grow open research data&mdash;<br />Be part of Dryad</p>
                                 <p style="drop-shadow: 4px 4px; position: absolute; right: 40px; bottom: 80px; font-size: 70%; text-align: right; text-shadow: 1px 2px 2px rgba(33, 33, 33, 0.25);">Learn more &#187;</p>
