@@ -244,6 +244,11 @@
                                 <img src="/themes/Mirage/images/membershipMeeting2015_carousel.jpg" alt="Dryad Community Meeting, 27 May 2015, Washington DC" />
                            </a>
                        </div>
+                       <div><span class="publication-date">2015-04-14</span>
+                           <a href="/pages/submissionIntegration">
+                               <img src="/themes/Mirage/images/integration-slide.jpg" alt="Publishers: Simplify data submission. Strengthen links between articles and data. For free. Integrate your journal with Dryad now" />
+                          </a>
+                      </div>
 						<div><span class="publication-date">2015-04-03</span>
                             <a href="/pages/bePartOfDryad">
                                 <img alt="" src="/themes/Mirage/images/watering-can.png" />
@@ -264,11 +269,6 @@
                                 for a growing list of journals; submission of data from other publications is also welcome.
                             </p>
                         </div>
-                        <div><span class="publication-date">2013-01-01</span>
-                            <a href="/pages/repository#keyFeatures">
-                                <img src="/themes/Mirage/images/bookmarkSubmissionProcess.png" alt="Deposit data. Get permanent identifier. Watch your citations grow! Relax, your data are discoverable and secure." />
-                           </a>
-                       </div>
                     </div>
                 </div>
             </div>
